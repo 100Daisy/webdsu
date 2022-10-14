@@ -1,0 +1,13 @@
+{
+  "images": [
+    {
+      "name": "OctaviOS",
+      "os_version": "T",
+      "cpu_abi": "arm64-v8a",
+      "details": "arm64-exp-RP1A.200720.009-6720564-019b517d",
+      "spl": "2020-09-05",
+      "tos": "https://dl.google.com/developers/android/gsi/gsi-11-tos.txt",
+      "uri": "https://dl.google.com/developers/android/rvc/images/gsi/aosp_arm64-exp-RP1A.200720.009-6720564-019b517d.zip"
+    }
+  ]
+}
